@@ -1,0 +1,3 @@
+   Date   |   Time    |    Transaction      |  C/D$ |  Bal$ |
+
+09/03/2023 05:17:05 PM GIVE CHANGE:          $0.00   $0.00  
